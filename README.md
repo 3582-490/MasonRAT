@@ -6,7 +6,7 @@ Password: 123
 ![Screenshot 3](https://i.ibb.co/sdMs55Dy/image.png)
 ![Screenshot 4](https://i.ibb.co/7xbyHvF9/image.png)
 ![Screenshot 5](https://i.ibb.co/zVR1Nx7K/image.png)
-![Screenshot 6](https://i.ibb.co/5WzqVGdq/image.png)
+![Screenshot 6](https://i.ibb.co/nSpNLzY/image.png)
 # Disclaimer
 This project is provided **for educational and research purposes only**
 The author(s) of this project **take no responsibility for any misuse, damage, or harmful activities** caused by using this software
